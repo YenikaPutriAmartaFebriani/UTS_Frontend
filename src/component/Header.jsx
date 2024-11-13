@@ -17,6 +17,9 @@ function Header() {
           <a href='#service'>Services</a>
         </button>
         <button>
+          <a href='#testi'>Testimoni</a>
+        </button>
+        <button>
           <a href='#about'>About</a>
         </button>
       </nav>

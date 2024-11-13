@@ -141,6 +141,35 @@ main p {
   margin-top: 15px;
 }
 
+.carousel .slide img {
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
+/*Ulasan*/
+.ulasan-section {
+  padding: 20px;
+}
+
+.ulasan-list {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 5px;
+}
+
+.ulasan-item {
+  text-align: center;
+  margin: 20px;
+}
+
+.ulasan-image {
+  width: 100%;
+  height: auto;
+  max-width: 250px;
+}
+
 
 /*Contact Map */
 .contact-map {
